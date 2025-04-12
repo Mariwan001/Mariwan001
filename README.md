@@ -246,15 +246,6 @@ A high-conversion landing page framework featuring:
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Clean code visualization" />
 </div>
 
-```javascript
-// The essence of my approach
-const philosophy = {
-  code: "structured and maintainable",
-  design: "intentional and purposeful",
-  animations: "meaningful and performant"
-};
-```
-
 <p align="center">
   <strong>I write front-end code like poetry — every tag, every class, every animation breathes with intention.</strong>
 </p>
