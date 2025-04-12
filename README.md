@@ -1,120 +1,100 @@
-<h1 align="center">✨ Hey, I’m Mariwan — Crafting the Future of the Web</h1>
+<h1 align="center">🚀 Mariwan — Developer. Designer. Digital Visionary.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=460&lines=Front-End+Engineer+%7C+UI%2FUX+Designer;React+%7C+Next.js+%7C+Framer+Motion+%7C+Vite;Transforming+ideas+into+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F97316&center=true&vCenter=true&width=600&lines=Creating+immersive+UX+%2B+UI+experiences.;Mastering+React%2C+Next.js%2C+Framer+Motion.;Transforming+code+into+digital+art." alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer GIF"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150" alt="Coder" />
 </p>
 
-> Yo! I’m **Mariwan** — your favorite code-slinging, pixel-pushing web wizard.
+> **Yo, I’m Mariwan — a digital craftsman pushing pixels and purpose into every single line of code.**  
 
-<table>
-  <tr>
-    <td>🕶️</td>
-    <td><strong>Started in 2022</strong> — I saw some bad websites and said, “Nope, not on my watch.”</td>
-  </tr>
-  <tr>
-    <td>🔥</td>
-    <td><strong>POSTMan? Grammarly?</strong> Yep, I’ve contributed to those. I’m basically the web dev version of a secret agent—only louder and with better commit messages.</td>
-  </tr>
-  <tr>
-    <td>🎯</td>
-    <td><strong>Designing with purpose</strong> — every UI I touch turns into Beyoncé-level smoothness. Fluid motion is my middle name.</td>
-  </tr>
-  <tr>
-    <td>✨</td>
-    <td><strong>I don’t build websites</strong> — I build digital *masterpieces*. I make your grandma go “wow” when she clicks a button.</td>
-  </tr>
-</table>
+- ⚡ **Started in 2022**, building high-impact front-end solutions.  
+- 🧠 **Contributed to projects like POSTMan & Grammarly** with interface innovations and component systems.  
+- 🎨 **Clean code, smooth animations, expressive UI.**  
+- ✨ I **don’t make websites** — I orchestrate user journeys.  
+- 🪄 *Design is how it works — but with me, it’s also how it moves.*  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="350" />
-</p>
-
-> <p align="center"><i><b>"Simplicity is the soul of efficiency."</b> – and yes, I do that with style.</i></p>
+> <p align="center"><i><b>"Simplicity is the soul of efficiency."</b> – Austin Freeman</i></p>
 
 ---
 
-## 🧠 My Stack
-
-### Languages & Technologies
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,sass,framer,threejs,figma,github" />
 </p>
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript  
-- **Frameworks:** React.js, Next.js, Vite.js  
+- **Languages:** HTML / CSS / JavaScript / TypeScript  
+- **Frameworks & Tools:** React.js, Next.js, Vite.js  
 - **Styling:** Tailwind CSS, Bootstrap, SCSS  
 - **Animation & 3D:** Framer Motion, THREE.js  
-- **Design:** Figma, Adobe XD  
-- **Version Control:** Git, GitHub  
+- **Design Systems:** Figma, Adobe XD  
+- **Version Control:** Git / GitHub  
 
 ---
 
-## 🛠️ Tools I Use
+## ⚒️ Dev Environment
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design-Figma-critical?logo=figma&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Terminal-Zsh-informational?logo=gnubash&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Browser-Chrome-yellow?logo=googlechrome&style=for-the-badge" />
-</p>
-
----
-
-## ✨ Featured Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **SaaS Pro** | React, Next.js, Tailwind | Scalable web platform with dynamic routes and modular architecture |
-| **Animated Portfolio** | Vite, Framer Motion | Smooth transitions, responsive layout, and personal branding focus |
-| **Landing Master** | HTML, SCSS, Vanilla JS | Conversion-optimized landing page with scroll animations and performance metrics |
-
-<p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="300" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terminal-Zsh-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ---
 
-## ✉️ Let’s Connect
+## 🔥 Featured Projects
+
+| Name              | Tech Used                              | Description                                                |
+|------------------|----------------------------------------|------------------------------------------------------------|
+| **SaaS Pro**      | React, Next.js, Tailwind               | High-performance SaaS dashboard with modular architecture |
+| **Portfolio X**   | Vite, Framer Motion, SCSS              | Smooth transitions, layered animations, brand-centered    |
+| **Landing Pulse** | HTML, JS, GSAP, Bootstrap              | Fast, reactive, scroll-triggered animations                |
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNsbW55dXMyZ3E0cHNsNzU2a3FsaGVia2tsZ3MwbjN2ZW42b2FrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="400" />
 </p>
 
-<p align="center">
-  <b>Got a project? Let’s collaborate, innovate, and elevate the digital space together.</b>
-</p>
+---
+
+## ⚡ Let’s Connect
 
 <p align="center">
-  <a href="mailto:tenaciousonly@gmail.com"><img src="https://img.shields.io/badge/Email-tenaciousonly@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="320" />
+</p>
+
+<p align="center"><strong>Have a project in mind? Want to team up? Let’s connect and create magic together.</strong></p>
+
+<p align="center">
+  <a href="mailto:tenaciousonly@gmail.com"><img src="https://img.shields.io/badge/Email-tenaciousonly@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/mariwan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Mariwan-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://twitter.com/mariwan" target="_blank"><img src="https://img.shields.io/badge/Twitter-@mariwan-1DA1F2?style=for-the-badge&logo=twitter"></a>
-  <a href="https://mariwan.dev" target="_blank"><img src="https://img.shields.io/badge/Website-mariwan.dev-informational?style=for-the-badge&logo=vercel"></a>
+  <a href="https://mariwan.dev" target="_blank"><img src="https://img.shields.io/badge/Website-mariwan.dev-0f172a?style=for-the-badge&logo=vercel"></a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## 🎯 Fun Fact
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" />
 </p>
 
-<p align="center"><b>I write front-end code like poetry —</b></p>
-<p align="center"><i>Each line flows, every pixel breathes, and no semicolon is left behind.</i></p>
+<p align="center"><strong>I write front-end like a composer scores music:</strong></p>
+
+<p align="center"><i>Each component has rhythm, every animation has soul, and no div is ever out of tune.</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 </p>
