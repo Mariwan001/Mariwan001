@@ -145,20 +145,26 @@ A high-conversion landing page framework featuring:
 ---
 ## 💡 Developer Ethos
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; margin: 40px auto; max-width: 1000px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin: 50px auto; max-width: 1100px;">
 
-  <img src="https://iconscout.com/lottie-animation/web-developer-6540747" width="300" alt="Creative Developer Animation" style="border-radius: 12px;" />
+  <!-- Animated Lottie Embed -->
+  <iframe src="https://lottie.host/?file=ecf9f6de-8ab9-4767-a24d-f3bc7a1388e1/w3J6JGEBC6.json" style="width: 320px; height: 320px; border: none; border-radius: 12px; background: #fff;"></iframe>
 
+  <!-- Text Content -->
   <div style="max-width: 500px; text-align: left;">
-    <h3 style="margin-bottom: 20px; color: #222;">Engineering Digital Experiences with Creativity and Precision</h3>
-    <p style="font-size: 18px; line-height: 1.6; color: #444;">
-      Every line of code I write is a step towards crafting immersive and intuitive digital experiences. I blend technical expertise with creative vision to build interfaces that are not only functional but also engaging and aesthetically pleasing.
+    <h3 style="margin-bottom: 20px; color: #222; font-size: 24px;">
+      I don't just build interfaces — I sculpt intuitive realities.
+    </h3>
+
+    <p style="font-size: 17px; line-height: 1.7; color: #444;">
+      With a mindset grounded in clarity and aesthetics, I architect front-end systems that feel seamless, human, and alive.
+      Every class, animation, and interaction I code is intentional — not just to be seen, but to be *felt*.
     </p>
+
     <p style="margin-top: 15px; font-style: italic; color: #666;">
-      Let's create digital solutions that resonate with users and stand the test of time.
+      Good design is invisible. Great code is poetry in motion.
     </p>
   </div>
-
 </div>
   <h3>🔮 Why Work With Me?</h3>
   
