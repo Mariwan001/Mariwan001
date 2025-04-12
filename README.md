@@ -147,35 +147,27 @@ A high-conversion landing page framework featuring:
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin: 50px auto; max-width: 1100px;">
 
-  <!-- Working Lottie Animation via Web Player -->
-  <lottie-player 
-    src="https://lottie.host/7e4e2c10-ccf7-4cb4-9687-0a34d8917e12/2YlQjP5G7H.json"  
-    background="transparent"  
-    speed="1"  
-    style="width: 320px; height: 320px;"  
-    loop  
-    autoplay>
-  </lottie-player>
+  <!-- High-quality GIF (clean, professional coding vibe) -->
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" 
+       alt="Professional coding animation" 
+       style="width: 320px; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);" />
 
   <!-- Developer Ethos Text -->
   <div style="max-width: 500px; text-align: left;">
     <h3 style="margin-bottom: 20px; color: #222; font-size: 24px;">
-      I don't just build interfaces — I sculpt intuitive realities.
+      I engineer interfaces with soul, structure, and significance.
     </h3>
 
     <p style="font-size: 17px; line-height: 1.7; color: #444;">
-      With a mindset grounded in clarity and aesthetics, I architect front-end systems that feel seamless, human, and alive.
-      Every class, animation, and interaction I code is intentional — not just to be seen, but to be *felt*.
+      Front-end development is more than visual layers — it's the orchestration of logic, interaction, and emotion. I code with clarity, align with intent, and design for delight.
     </p>
 
     <p style="margin-top: 15px; font-style: italic; color: #666;">
-      Good design is invisible. Great code is poetry in motion.
+      Code should feel invisible, until it's unforgettable.
     </p>
   </div>
 </div>
 
-<!-- Load Lottie Player Script -->
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
   <h3>🔮 Why Work With Me?</h3>
   
   ```javascript
