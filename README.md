@@ -147,10 +147,17 @@ A high-conversion landing page framework featuring:
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin: 50px auto; max-width: 1100px;">
 
-  <!-- Animated Lottie Embed -->
-  <iframe src="https://lottie.host/?file=ecf9f6de-8ab9-4767-a24d-f3bc7a1388e1/w3J6JGEBC6.json" style="width: 320px; height: 320px; border: none; border-radius: 12px; background: #fff;"></iframe>
+  <!-- Working Lottie Animation via Web Player -->
+  <lottie-player 
+    src="https://lottie.host/7e4e2c10-ccf7-4cb4-9687-0a34d8917e12/2YlQjP5G7H.json"  
+    background="transparent"  
+    speed="1"  
+    style="width: 320px; height: 320px;"  
+    loop  
+    autoplay>
+  </lottie-player>
 
-  <!-- Text Content -->
+  <!-- Developer Ethos Text -->
   <div style="max-width: 500px; text-align: left;">
     <h3 style="margin-bottom: 20px; color: #222; font-size: 24px;">
       I don't just build interfaces — I sculpt intuitive realities.
@@ -166,6 +173,9 @@ A high-conversion landing page framework featuring:
     </p>
   </div>
 </div>
+
+<!-- Load Lottie Player Script -->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
   <h3>🔮 Why Work With Me?</h3>
   
   ```javascript
