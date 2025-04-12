@@ -146,30 +146,130 @@ A high-conversion landing page framework featuring:
 
 ## 🌐 Let's Connect & Collaborate
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Rocket"/>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/CuMiNoTRz2bYc/giphy.gif" width="400" alt="Digital collaboration"/>
+</div>
 
-<p align="center">
-  <strong style="font-size:1.3rem;">Have a mind-blowing idea? A vision that needs life? Let's turn it into code.</strong>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="250" alt="Let's code together"/>
+        <h3>Got an Idea?</h3>
+        <p>From napkin sketch to production-ready app, <br>I turn visions into digital realities</p>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="250" alt="Problem solving"/>
+        <h3>Facing a Challenge?</h3>
+        <p>Complex UX problems, performance issues, <br>or design hurdles—I've got you covered</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <a href="mailto:tenaciousonly@gmail.com"><img src="https://img.shields.io/badge/Email-tenaciousonly@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mariwan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Mariwan-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/mariwan" target="_blank"><img src="https://img.shields.io/badge/Twitter-@mariwan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://mariwan.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mariwan.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<div align="center">
+  <h3>🔮 Why Work With Me?</h3>
+  
+  ```javascript
+  const mariwan = {
+    approach: "user-centric & detail-obsessed",
+    communication: "clear & jargon-free",
+    delivery: "on-time & exceeding expectations",
+    coffee_consumption: Number.POSITIVE_INFINITY
+  };
+  ```
+</div>
+
+<div align="center">
+  <h3>🚀 Let's Make Digital Magic Together</h3>
+  
+  <a href="https://calendly.com/mariwan/coffee-chat" target="_blank">
+    <img src="https://img.shields.io/badge/Schedule%20a%20Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule a Call" />
+  </a>
+  
+  <a href="https://discord.gg/mariwan" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="mailto:tenaciousonly@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tenaciousonly@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/mariwan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mariwan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/mariwan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@mariwan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://mariwan.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-mariwan.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun Facts & Philosophy
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l41YdKjhQU0hX1IVa/giphy.gif" width="250" alt="Coding fun"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <h3>🎨 The Code Artist's Manifesto</h3>
+        <ul>
+          <li>I don't just write code—I craft experiences that resonate</li>
+          <li>Every animation has purpose, every transition tells a story</li>
+          <li>Performance isn't just a metric, it's respect for users' time</li>
+          <li>Accessibility isn't optional, it's fundamental</li>
+          <li>The best interfaces feel like magic, but are built with logic</li>
+        </ul>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280" alt="Creative coding" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <strong>I write front-end code like poetry — every tag, every class, every animation breathes with intention.</strong><br/>
-  <i>One might say... my <code>div</code>s have rhythm, and my <code>span</code>s dance!</i>
-</p>
+<div align="center">
+  <h3>💭 My Front-End Philosophy</h3>
+  
+  ```css
+  .mariwan-code {
+    craftsmanship: meticulous;
+    attention-to-detail: 100%;
+    bug-tolerance: 0;
+    animation-timing: perfect;
+    user-experience: seamless;
+    technical-debt: minimal;
+    comment-quality: legendary;
+  }
+  ```
+</div>
+
+<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Problem solving" />
+        <h4>When not coding</h4>
+        <p>I'm exploring UI design trends, optimizing animations, or sketching new interface concepts</p>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="Creative process" />
+        <h4>My creative process</h4>
+        <p>Immerse in the problem, explore solutions without constraints, then refine with precision</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>✨ The Final Truth</h3>
+  <p>
+    <strong>I write front-end code like poetry — every tag, every class, every animation breathes with intention.</strong><br/>
+    <em>One might say... my <code>div</code>s have rhythm, my <code>span</code>s dance, and my <code>@keyframes</code> tell stories!</em>
+  </p>
+  
+  <img src="https://media.giphy.com/media/l41YdKjhQU0hX1IVa/giphy.gif" width="300" alt="Coding is art"/>
+</div>
