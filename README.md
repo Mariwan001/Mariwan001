@@ -265,11 +265,83 @@ A high-conversion landing page framework featuring:
 </div>
 
 <div align="center">
-  <h3>✨ The Final Truth</h3>
-  <p>
-    <strong>I write front-end code like poetry — every tag, every class, every animation breathes with intention.</strong><br/>
-    <em>One might say... my <code>div</code>s have rhythm, my <code>span</code>s dance, and my <code>@keyframes</code> tell stories!</em>
+ ## ✨ The Final Truth
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="450" alt="Code animation" />
+</div>
+
+<div align="center" style="background: linear-gradient(90deg, rgba(131,58,180,0.2) 0%, rgba(253,29,29,0.2) 50%, rgba(252,176,69,0.2) 100%); border-radius: 16px; padding: 20px; margin: 30px 0;">
+  <h3 style="font-size: 28px; margin-bottom: 20px;">The Code Poet's Creed</h3>
+  
+  <div style="display: flex; justify-content: space-around; margin-bottom: 25px;">
+    <div style="text-align: center; width: 30%;">
+      <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="120" alt="Coding flow" />
+      <p><strong>Structure</strong></p>
+    </div>
+    <div style="text-align: center; width: 30%;">
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" alt="Creative design" />
+      <p><strong>Style</strong></p>
+    </div>
+    <div style="text-align: center; width: 30%;">
+      <img src="https://media.giphy.com/media/l378fH5ke2go1UCkM/giphy.gif" width="120" alt="Animation" />
+      <p><strong>Motion</strong></p>
+    </div>
+  </div>
+
+  <blockquote style="font-size: 24px; font-style: italic; line-height: 1.6; border-left: 4px solid #ff6b6b; padding-left: 20px; margin: 30px 0;">
+    I write front-end code like poetry —<br>
+    every <code>&lt;tag&gt;</code> carries meaning,<br>
+    every <code>.class</code> maintains harmony,<br>
+    every <code>animation</code> breathes with intention.
+  </blockquote>
+  
+  <div style="font-family: monospace; background-color: #282a36; color: #f8f8f2; border-radius: 8px; padding: 15px; margin: 20px 0; text-align: left;">
+    <pre style="margin: 0;">
+const myStyle = {
+  divs: "have rhythm",
+  spans: "dance elegantly", 
+  keyframes: "tell compelling stories",
+  approach: "artistic yet functional"
+};
+
+// The ultimate goal
+function createDigitalPoetry() {
+  return experience.that.moves(users);
+}
+    </pre>
+  </div>
+</div>
+
+<div align="center">
+  <table style="border-collapse: collapse; width: 100%; margin: 30px 0;">
+    <tr style="background: rgba(0,0,0,0.03);">
+      <td align="center" style="padding: 15px;">
+        <h4>When users say...</h4>
+        <p style="font-style: italic;">"Wow, this feels so smooth!"</p>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <h4>What's really happening:</h4>
+        <p>Carefully orchestrated interactions, deliberate timing functions, and thoughtful state transitions</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <h4>When clients say...</h4>
+        <p style="font-style: italic;">"It just works exactly how we wanted!"</p>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <h4>What's really happening:</h4>
+        <p>Countless hours perfecting the smallest details that most people will never consciously notice</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center" style="margin: 40px 0;">
+  <p style="font-size: 20px; font-weight: bold; background: -webkit-linear-gradient(45deg, #ff8a00, #e52e71); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    This isn't just development — it's digital craftsmanship.
   </p>
   
-  <img src="https://media.giphy.com/media/l41YdKjhQU0hX1IVa/giphy.gif" width="300" alt="Coding is art"/>
+  <img src="https://media.giphy.com/media/l41YdKjhQU0hX1IVa/giphy.gif" width="280" alt="Coding art" />
 </div>
