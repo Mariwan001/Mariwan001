@@ -12,14 +12,40 @@
 
 ## 🚀 About Me
 
-I’m **Mariwan** — a dedicated **Front-End Developer** & **UX/UI Designer** with a passion for creating **immersive, modern, and high-performance** web solutions.  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />
+</div>
 
-- Started in **2022** and never looked back  
-- Contributed to top-tier apps like **POSTMan** and **Grammarly**  
-- Obsessed with **clean code**, **refined UI**, and **fluid motion**  
-- I don’t just develop websites—I design experiences  
+> I’m **Mariwan** — a visionary **Front-End Developer** & **UX/UI Designer** breathing life into every pixel and interaction.
 
-> "Simplicity is the soul of efficiency." – Austin Freeman
+<p align="center">
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="250" />
+</p>
+
+<table>
+  <tr>
+    <td>🌱</td>
+    <td><strong>Started my journey in 2022</strong> — diving deep into code, design, and problem-solving with relentless ambition.</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><strong>Contributed to POSTMan and Grammarly</strong> — helping enhance user flows, interface performance, and modernized responsiveness.</td>
+  </tr>
+  <tr>
+    <td>🎯</td>
+    <td><strong>Obsessed with clean code, fluid UI, and refined UX</strong> — where motion meets minimalism, and every action feels intentional.</td>
+  </tr>
+  <tr>
+    <td>🎨</td>
+    <td><strong>I don’t just develop websites — I design experiences</strong> that make users *feel* the purpose behind the product.</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="360" />
+</p>
+
+> <p align="center"><i><b>“Simplicity is the soul of efficiency.”</b> – Austin Freeman</i></p>
 
 ---
 
@@ -38,13 +64,6 @@ I’m **Mariwan** — a dedicated **Front-End Developer** & **UX/UI Designer** w
 - **Design:** Figma, Adobe XD  
 - **Version Control:** Git, GitHub  
 
-### What I Build:
-- SaaS Platforms  
-- Interactive Portfolios  
-- Landing Pages  
-- Fully Responsive Interfaces  
-- Micro-animations & smooth transitions
-
 ---
 
 ## 🛠️ Tools I Use
@@ -54,6 +73,20 @@ I’m **Mariwan** — a dedicated **Front-End Developer** & **UX/UI Designer** w
   <img src="https://img.shields.io/badge/Design-Figma-critical?logo=figma&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Terminal-Zsh-informational?logo=gnubash&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Browser-Chrome-yellow?logo=googlechrome&style=for-the-badge" />
+</p>
+
+---
+
+## ✨ Featured Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| **SaaS Pro** | React, Next.js, Tailwind | Scalable web platform with dynamic routes and modular architecture |
+| **Animated Portfolio** | Vite, Framer Motion | Smooth transitions, responsive layout, and personal branding focus |
+| **Landing Master** | HTML, SCSS, Vanilla JS | Conversion-optimized landing page with scroll animations and performance metrics |
+
+<p align="center">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="300" />
 </p>
 
 ---
@@ -71,17 +104,7 @@ I’m **Mariwan** — a dedicated **Front-End Developer** & **UX/UI Designer** w
 
 ---
 
-## ✨ Featured Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **SaaS Pro** | React, Next.js, Tailwind | Scalable web platform with dynamic routes and modular architecture |
-| **Animated Portfolio** | Vite, Framer Motion | Smooth transitions, responsive layout, and personal branding focus |
-| **Landing Master** | HTML, SCSS, Vanilla JS | Conversion-optimized landing page with scroll animations and performance metrics |
-
----
-
-## 🌐 Let's Connect
+## ✉️ Let’s Connect
 
 <p align="center">
   <a href="mailto:tenaciousonly@gmail.com"><img src="https://img.shields.io/badge/Email-tenaciousonly@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
