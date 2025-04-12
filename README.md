@@ -147,20 +147,19 @@ A high-conversion landing page framework featuring:
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; margin: 40px auto; max-width: 1000px; flex-wrap: wrap;">
 
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Professional developer working" style="border-radius: 12px;" />
+  <img src="https://iconscout.com/lottie-animation/web-developer-6540747" width="300" alt="Creative Developer Animation" style="border-radius: 12px;" />
 
   <div style="max-width: 500px; text-align: left;">
-    <h3 style="margin-bottom: 20px; color: #222;">Crafting Code with Purpose and Precision</h3>
+    <h3 style="margin-bottom: 20px; color: #222;">Engineering Digital Experiences with Creativity and Precision</h3>
     <p style="font-size: 18px; line-height: 1.6; color: #444;">
-      In the realm of development, every line of code is a brushstroke on the canvas of innovation. I approach each project with a blend of creativity and technical acumen, ensuring that functionality meets form in perfect harmony.
+      Every line of code I write is a step towards crafting immersive and intuitive digital experiences. I blend technical expertise with creative vision to build interfaces that are not only functional but also engaging and aesthetically pleasing.
     </p>
     <p style="margin-top: 15px; font-style: italic; color: #666;">
-      Let's build experiences that are not only efficient but also resonate with users on a deeper level.
+      Let's create digital solutions that resonate with users and stand the test of time.
     </p>
   </div>
 
 </div>
-
   <h3>🔮 Why Work With Me?</h3>
   
   ```javascript
