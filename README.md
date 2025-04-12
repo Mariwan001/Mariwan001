@@ -143,30 +143,45 @@ A high-conversion landing page framework featuring:
 </p>
 
 ---
-
-## 🌐 Let's Connect & Collaborate
+## 💻 Code Philosophy
 
 <div align="center">
-  <img src="https://media.giphy.com/media/CuMiNoTRz2bYc/giphy.gif" width="400" alt="Digital collaboration"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Clean code" />
+</div>
+
+<div align="center">
+  <h3>Poetry in Motion</h3>
+  
+  <p>
+    I write front-end code like poetry — every tag, every class, every animation breathes with intention.<br>
+    <i>One might say... my <code>div</code>s have rhythm, and my <code>span</code>s dance!</i>
+  </p>
 </div>
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="250" alt="Let's code together"/>
-        <h3>Got an Idea?</h3>
-        <p>From napkin sketch to production-ready app, <br>I turn visions into digital realities</p>
+      <td align="center">
+        <h4>Structured</h4>
+        <p>Clean architecture built<br>for scalability</p>
       </td>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="250" alt="Problem solving"/>
-        <h3>Facing a Challenge?</h3>
-        <p>Complex UX problems, performance issues, <br>or design hurdles—I've got you covered</p>
+      <td align="center">
+        <h4>Intentional</h4>
+        <p>Purposeful design focused<br>on user experience</p>
+      </td>
+      <td align="center">
+        <h4>Elegant</h4>
+        <p>Refined interactions that<br>feel natural</p>
       </td>
     </tr>
   </table>
 </div>
 
+<div align="center">
+  <p>
+    <strong>The difference between good and great is in the details that most users never notice but always feel.</strong>
+  </p>
+</div>
 <div align="center">
   <h3>🔮 Why Work With Me?</h3>
   
