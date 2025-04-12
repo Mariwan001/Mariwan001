@@ -5,47 +5,43 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="240" height="240" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />
-</div>
-
-> I’m **Mariwan** — a visionary **Front-End Developer** & **UX/UI Designer** breathing life into every pixel and interaction.
-
 <p align="center">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" />
 </p>
+
+> Yo! I’m **Mariwan** — your favorite code-slinging, pixel-pushing web wizard.
 
 <table>
   <tr>
-    <td>🌱</td>
-    <td><strong>Started my journey in 2022</strong> — diving deep into code, design, and problem-solving with relentless ambition.</td>
+    <td>🕶️</td>
+    <td><strong>Started in 2022</strong> — I saw some bad websites and said, “Nope, not on my watch.”</td>
   </tr>
   <tr>
-    <td>🚀</td>
-    <td><strong>Contributed to POSTMan and Grammarly</strong> — helping enhance user flows, interface performance, and modernized responsiveness.</td>
+    <td>🔥</td>
+    <td><strong>POSTMan? Grammarly?</strong> Yep, I’ve contributed to those. I’m basically the web dev version of a secret agent—only louder and with better commit messages.</td>
   </tr>
   <tr>
     <td>🎯</td>
-    <td><strong>Obsessed with clean code, fluid UI, and refined UX</strong> — where motion meets minimalism, and every action feels intentional.</td>
+    <td><strong>Designing with purpose</strong> — every UI I touch turns into Beyoncé-level smoothness. Fluid motion is my middle name.</td>
   </tr>
   <tr>
-    <td>🎨</td>
-    <td><strong>I don’t just develop websites — I design experiences</strong> that make users *feel* the purpose behind the product.</td>
+    <td>✨</td>
+    <td><strong>I don’t build websites</strong> — I build digital *masterpieces*. I make your grandma go “wow” when she clicks a button.</td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="360" />
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="350" />
 </p>
 
-> <p align="center"><i><b>“Simplicity is the soul of efficiency.”</b> – Austin Freeman</i></p>
+> <p align="center"><i><b>"Simplicity is the soul of efficiency."</b> – and yes, I do that with style.</i></p>
 
 ---
 
