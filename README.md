@@ -265,83 +265,76 @@ A high-conversion landing page framework featuring:
 </div>
 
 <div align="center">
- ## ✨ The Final Truth
+ ## ✨ Creator's Philosophy
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="450" alt="Code animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjIwZzhpcWF5cWE0ZTZld3h2Z21neTl3eDFkdHU2NjZpM2s3bDJmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="450" alt="Digital art creation" />
 </div>
 
-<div align="center" style="background: linear-gradient(90deg, rgba(131,58,180,0.2) 0%, rgba(253,29,29,0.2) 50%, rgba(252,176,69,0.2) 100%); border-radius: 16px; padding: 20px; margin: 30px 0;">
-  <h3 style="font-size: 28px; margin-bottom: 20px;">The Code Poet's Creed</h3>
-  
-  <div style="display: flex; justify-content: space-around; margin-bottom: 25px;">
-    <div style="text-align: center; width: 30%;">
-      <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="120" alt="Coding flow" />
-      <p><strong>Structure</strong></p>
+<div style="margin: 40px 0; padding: 30px; background-color: #f8f9fa; border-radius: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 30px;">
+    <div style="width: 48%;">
+      <h3 style="border-bottom: 2px solid #6366f1; padding-bottom: 10px; color: #4f46e5;">Beyond Code</h3>
+      <p style="font-size: 18px; line-height: 1.8;">
+        I approach front-end development as a craft that transcends mere functionality. Each project is a canvas where technical precision meets artistic expression—creating experiences that resonate on both logical and emotional levels.
+      </p>
     </div>
-    <div style="text-align: center; width: 30%;">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" alt="Creative design" />
-      <p><strong>Style</strong></p>
-    </div>
-    <div style="text-align: center; width: 30%;">
-      <img src="https://media.giphy.com/media/l378fH5ke2go1UCkM/giphy.gif" width="120" alt="Animation" />
-      <p><strong>Motion</strong></p>
+    <div style="width: 48%;">
+      <h3 style="border-bottom: 2px solid #6366f1; padding-bottom: 10px; color: #4f46e5;">Digital Poetry</h3>
+      <p style="font-size: 18px; line-height: 1.8;">
+        My code is carefully composed—like verses in a poem—where structure, rhythm, and flow come together to create something beautiful. The syntax may be technical, but the outcome is undeniably human.
+      </p>
     </div>
   </div>
-
-  <blockquote style="font-size: 24px; font-style: italic; line-height: 1.6; border-left: 4px solid #ff6b6b; padding-left: 20px; margin: 30px 0;">
-    I write front-end code like poetry —<br>
-    every <code>&lt;tag&gt;</code> carries meaning,<br>
-    every <code>.class</code> maintains harmony,<br>
-    every <code>animation</code> breathes with intention.
-  </blockquote>
   
-  <div style="font-family: monospace; background-color: #282a36; color: #f8f8f2; border-radius: 8px; padding: 15px; margin: 20px 0; text-align: left;">
-    <pre style="margin: 0;">
-const myStyle = {
-  divs: "have rhythm",
-  spans: "dance elegantly", 
-  keyframes: "tell compelling stories",
-  approach: "artistic yet functional"
-};
-
-// The ultimate goal
-function createDigitalPoetry() {
-  return experience.that.moves(users);
-}
-    </pre>
+  <div style="text-align: center; margin: 40px 0;">
+    <p style="font-size: 24px; font-style: italic; color: #4b5563;">
+      "I write front-end code like poetry — every tag, every class, every animation breathes with intention."
+    </p>
+  </div>
+  
+  <div style="display: flex; justify-content: center; margin: 30px 0;">
+    <div style="width: 80%; background: #ffffff; border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <div style="width: 30%; text-align: center;">
+          <div style="height: 80px; display: flex; align-items: center; justify-content: center;">
+            <code style="font-size: 24px; color: #8b5cf6;">&lt;div&gt;</code>
+          </div>
+          <p>Has rhythm</p>
+        </div>
+        <div style="width: 30%; text-align: center;">
+          <div style="height: 80px; display: flex; align-items: center; justify-content: center;">
+            <code style="font-size: 24px; color: #ec4899;">&lt;span&gt;</code>
+          </div>
+          <p>Dances elegantly</p>
+        </div>
+        <div style="width: 30%; text-align: center;">
+          <div style="height: 80px; display: flex; align-items: center; justify-content: center;">
+            <code style="font-size: 24px; color: #3b82f6;">@keyframes</code>
+          </div>
+          <p>Tells stories</p>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
-<div align="center">
-  <table style="border-collapse: collapse; width: 100%; margin: 30px 0;">
-    <tr style="background: rgba(0,0,0,0.03);">
-      <td align="center" style="padding: 15px;">
-        <h4>When users say...</h4>
-        <p style="font-style: italic;">"Wow, this feels so smooth!"</p>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <h4>What's really happening:</h4>
-        <p>Carefully orchestrated interactions, deliberate timing functions, and thoughtful state transitions</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <h4>When clients say...</h4>
-        <p style="font-style: italic;">"It just works exactly how we wanted!"</p>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <h4>What's really happening:</h4>
-        <p>Countless hours perfecting the smallest details that most people will never consciously notice</p>
-      </td>
-    </tr>
-  </table>
+<div style="margin: 40px 0; padding: 0 40px;">
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+      <h3 style="font-size: 22px; color: #111827;">The Unseen Craft</h3>
+      <p style="font-size: 17px; line-height: 1.7; color: #4b5563;">
+        What appears simple on the surface is often built upon layers of thoughtful decisions. The smoothest animations, the most intuitive interfaces, and the most responsive designs all emerge from a dedication to excellence that most users will never consciously notice—but will absolutely feel.
+      </p>
+    </div>
+    <div style="width: 200px; margin-left: 30px; text-align: center;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM3YWx1dDVheGp6N3dldHl1Z2RudTNhNWpocWNjd2NuYm94MXM3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnBEKAMoztRNEYM/giphy.gif" width="180" alt="Web design process" />
+    </div>
+  </div>
 </div>
 
-<div align="center" style="margin: 40px 0;">
-  <p style="font-size: 20px; font-weight: bold; background: -webkit-linear-gradient(45deg, #ff8a00, #e52e71); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    This isn't just development — it's digital craftsmanship.
+<div style="text-align: center; margin: 50px 0 30px; padding: 20px; background: linear-gradient(135deg, rgba(96, 165, 250, 0.1) 0%, rgba(236, 72, 153, 0.1) 100%); border-radius: 12px;">
+  <p style="font-size: 18px; font-weight: 500; letter-spacing: 0.5px;">
+    The difference between good and great is attention to the details that most people never see.
   </p>
-  
-  <img src="https://media.giphy.com/media/l41YdKjhQU0hX1IVa/giphy.gif" width="280" alt="Coding art" />
 </div>
