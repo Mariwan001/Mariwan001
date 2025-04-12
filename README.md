@@ -87,20 +87,15 @@
 
 ---
 
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariwan-dev&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariwan-dev&layout=compact&theme=radical" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariwan-dev&theme=radical" height="160px" />
-</p>
-
----
-
 ## ✉️ Let’s Connect
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNsbW55dXMyZ3E0cHNsNzU2a3FsaGVia2tsZ3MwbjN2ZW42b2FrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="350" />
+</p>
+
+<p align="center">
+  <b>Got a project? Let’s collaborate, innovate, and elevate the digital space together.</b>
+</p>
 
 <p align="center">
   <a href="mailto:tenaciousonly@gmail.com"><img src="https://img.shields.io/badge/Email-tenaciousonly@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
@@ -113,8 +108,13 @@
 
 ## ⚡ Fun Fact
 
-> I write front-end code like poetry — each line flows, every pixel breathes.
+<p align="center">
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="320" />
+</p>
+
+<p align="center"><b>I write front-end code like poetry —</b></p>
+<p align="center"><i>Each line flows, every pixel breathes, and no semicolon is left behind.</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR1U6v7BHVjf42E/giphy.gif" width="220" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer" />
 </p>
