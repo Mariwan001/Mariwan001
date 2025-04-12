@@ -150,17 +150,17 @@ A high-conversion landing page framework featuring:
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Professional developer working" style="border-radius: 12px;" />
 
   <div style="max-width: 500px; text-align: left;">
-    <h3 style="margin-bottom: 20px; color: #222;">I don't just build interfaces — I engineer experiences.</h3>
+    <h3 style="margin-bottom: 20px; color: #222;">Crafting Code with Purpose and Precision</h3>
     <p style="font-size: 18px; line-height: 1.6; color: #444;">
-      Every component I craft is a balance of architecture, aesthetics, and flow. My design principles are rooted in clarity, my structure is driven by logic, and my animations follow rhythm — all orchestrated to make the user feel something subtle yet intentional.
+      In the realm of development, every line of code is a brushstroke on the canvas of innovation. I approach each project with a blend of creativity and technical acumen, ensuring that functionality meets form in perfect harmony.
     </p>
     <p style="margin-top: 15px; font-style: italic; color: #666;">
-      The elegance of the front-end isn’t just what you see — it’s how it moves, speaks, and breathes.
+      Let's build experiences that are not only efficient but also resonate with users on a deeper level.
     </p>
   </div>
 
 </div>
-<div align="center">
+
   <h3>🔮 Why Work With Me?</h3>
   
   ```javascript
