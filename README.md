@@ -145,41 +145,22 @@ A high-conversion landing page framework featuring:
 ---
 ## 💡 Developer Ethos
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 30px 0;">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Code structure" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Animation flow" />
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" alt="Creative development" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; margin: 40px auto; max-width: 1000px; flex-wrap: wrap;">
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Clean code animation" style="border-radius: 12px;" />
+
+  <div style="max-width: 500px; text-align: left;">
+    <h3 style="margin-bottom: 20px; color: #222;">I don't just build interfaces — I engineer experiences.</h3>
+    <p style="font-size: 18px; line-height: 1.6; color: #444;">
+      Every component I craft is a balance of architecture, aesthetics, and flow. My design principles are rooted in clarity, my structure is driven by logic, and my animations follow rhythm — all orchestrated to make the user feel something subtle yet intentional.
+    </p>
+    <p style="margin-top: 15px; font-style: italic; color: #666;">
+      The elegance of the front-end isn’t just what you see — it’s how it moves, speaks, and breathes.
+    </p>
+  </div>
+
 </div>
 
-<div align="center" style="background: #f5f5f5; padding: 25px; border-radius: 8px; max-width: 800px; margin: 0 auto;">
-  <p style="font-size: 18px; font-weight: 500; line-height: 1.5;">
-    I write front-end code like poetry — every tag, every class, every animation breathes with intention.
-  </p>
-  
-  <p style="font-style: italic; color: #555;">
-    One might say... my <code>div</code>s have rhythm, and my <code>span</code>s dance!
-  </p>
-</div>
-
-<div align="center" style="display: flex; justify-content: center; margin-top: 30px; text-align: center; gap: 40px;">
-  <div>
-    <h4>Structure</h4>
-    <div style="width: 80px; height: 5px; background: #4285F4; margin: 10px auto;"></div>
-    <p>Organized & maintainable</p>
-  </div>
-  
-  <div>
-    <h4>Design</h4>
-    <div style="width: 80px; height: 5px; background: #EA4335; margin: 10px auto;"></div>
-    <p>Intuitive & purposeful</p>
-  </div>
-  
-  <div>
-    <h4>Motion</h4>
-    <div style="width: 80px; height: 5px; background: #34A853; margin: 10px auto;"></div>
-    <p>Fluid & meaningful</p>
-  </div>
-</div>
 <div align="center">
   <h3>🔮 Why Work With Me?</h3>
   
