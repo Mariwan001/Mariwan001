@@ -87,21 +87,21 @@
 
 ---
 
-## ✉️ Let’s Connect
+## 🌐 Let’s Connect & Collaborate
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNsbW55dXMyZ3E0cHNsNzU2a3FsaGVia2tsZ3MwbjN2ZW42b2FrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Rocket"/>
 </p>
 
 <p align="center">
-  <b>Got a project? Let’s collaborate, innovate, and elevate the digital space together.</b>
+  <strong style="font-size:1.3rem;">Have a mind-blowing idea? A vision that needs life? Let’s turn it into code.</strong>
 </p>
 
 <p align="center">
-  <a href="mailto:tenaciousonly@gmail.com"><img src="https://img.shields.io/badge/Email-tenaciousonly@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/mariwan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Mariwan-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/mariwan" target="_blank"><img src="https://img.shields.io/badge/Twitter-@mariwan-1DA1F2?style=for-the-badge&logo=twitter"></a>
-  <a href="https://mariwan.dev" target="_blank"><img src="https://img.shields.io/badge/Website-mariwan.dev-informational?style=for-the-badge&logo=vercel"></a>
+  <a href="mailto:tenaciousonly@gmail.com"><img src="https://img.shields.io/badge/Email-tenaciousonly@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mariwan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Mariwan-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/mariwan" target="_blank"><img src="https://img.shields.io/badge/Twitter-@mariwan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://mariwan.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mariwan.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -109,12 +109,10 @@
 ## ⚡ Fun Fact
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/l41YdKjhQU0hX1IVa/giphy.gif" width="250" alt="Coding fun"/>
 </p>
 
-<p align="center"><b>I write front-end code like poetry —</b></p>
-<p align="center"><i>Each line flows, every pixel breathes, and no semicolon is left behind.</i></p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer" />
+  <strong>I write front-end code like poetry — every tag, every class, every animation breathes with intention.</strong><br/>
+  <i>One might say... my <code>div</code>s have rhythm, and my <code>span</code>s dance!</i>
 </p>
