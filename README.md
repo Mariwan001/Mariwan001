@@ -143,30 +143,31 @@ A high-conversion landing page framework featuring:
 </p>
 
 ---
-## 💡 Developer Ethos
+### 💡 Developer Ethos
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin: 50px auto; max-width: 1100px;">
 
-  <!-- High-quality GIF (clean, professional coding vibe) -->
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" 
-       alt="Professional coding animation" 
+  <!-- Unique Developer Animation -->
+  <img src="https://your-unique-animation-url.com/animation.gif" 
+       alt="Creative Developer Animation" 
        style="width: 320px; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.1);" />
 
   <!-- Developer Ethos Text -->
   <div style="max-width: 500px; text-align: left;">
     <h3 style="margin-bottom: 20px; color: #222; font-size: 24px;">
-      I engineer interfaces with soul, structure, and significance.
+      Crafting Digital Experiences with Innovation and Precision
     </h3>
 
     <p style="font-size: 17px; line-height: 1.7; color: #444;">
-      Front-end development is more than visual layers — it's the orchestration of logic, interaction, and emotion. I code with clarity, align with intent, and design for delight.
+      I approach front-end development as an art form, blending aesthetics with functionality to create intuitive and engaging user experiences. Each line of code is written with purpose, ensuring that design and performance harmoniously coexist.
     </p>
 
     <p style="margin-top: 15px; font-style: italic; color: #666;">
-      Code should feel invisible, until it's unforgettable.
+      Let's build interfaces that not only look good but also feel right.
     </p>
   </div>
 </div>
+
 
   <h3>🔮 Why Work With Me?</h3>
   
