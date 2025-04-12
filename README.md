@@ -155,38 +155,41 @@ A high-conversion landing page framework featuring:
 </div>
 
 <div align="center">
-## 🚀 Let's Make Digital Magic Together
+## ✨ Let's Make Digital Magic Together
 
-<p align="center">
+<div align="center">
   <a href="https://calendly.com/mariwan/coffee-chat">
-    <img src="https://img.shields.io/badge/Schedule%20a%20Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white&labelColor=2A2F3A" alt="Schedule a Call" />
-  </a>&nbsp;&nbsp;
+    <img width="180px" src="https://img.shields.io/badge/Schedule_Call-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white&logoWidth=20&labelColor=20232a&color=4285F4" alt="Schedule a Call"/>
+  </a>
   <a href="https://discord.gg/mariwan">
-    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2A2F3A" alt="Join Discord" />
+    <img width="180px" src="https://img.shields.io/badge/Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoWidth=20&labelColor=20232a&color=5865F2" alt="Join Discord"/>
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center" style="margin-top:15px">
   <a href="mailto:tenaciousonly@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tenaciousonly%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2A2F3A" alt="Email" />
+    <img width="260px" src="https://img.shields.io/badge/tenaciousonly@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&labelColor=20232a&color=EA4335" alt="Email"/>
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center" style="margin-top:15px">
   <a href="https://linkedin.com/in/mariwan">
-    <img src="https://img.shields.io/badge/LinkedIn-Mariwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2A2F3A" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/mariwan">
-    <img src="https://img.shields.io/badge/Twitter-%40mariwan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=2A2F3A" alt="Twitter" />
+    <img width="160px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=20232a&color=0A66C2" alt="LinkedIn"/>
   </a>
-</p>
+  <a href="https://twitter.com/mariwan">
+    <img width="160px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20&labelColor=20232a&color=1DA1F2" alt="Twitter"/>
+  </a>
+</div>
+
+<div align="center" style="margin-top:15px">
+  <a href="https://mariwan.dev">
+    <img width="200px" src="https://img.shields.io/badge/mariwan.dev-6366F1?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=20&labelColor=20232a&color=6366F1" alt="Portfolio"/>
+  </a>
+</div>
 
 <p align="center">
-  <a href="https://mariwan.dev">
-    <img src="https://img.shields.io/badge/Portfolio-mariwan.dev-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2A2F3A" alt="Portfolio" />
-  </a>
-</p>
----
+  <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="250" alt="Collaboration" />
+</p>---
 
 ## ⚡ Fun Facts & Philosophy
 
