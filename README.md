@@ -143,44 +143,42 @@ A high-conversion landing page framework featuring:
 </p>
 
 ---
-## 💻 Code Philosophy
+## 💡 Developer Ethos
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Clean code" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 30px 0;">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Code structure" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Animation flow" />
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" alt="Creative development" />
 </div>
 
-<div align="center">
-  <h3>Poetry in Motion</h3>
+<div align="center" style="background: #f5f5f5; padding: 25px; border-radius: 8px; max-width: 800px; margin: 0 auto;">
+  <p style="font-size: 18px; font-weight: 500; line-height: 1.5;">
+    I write front-end code like poetry — every tag, every class, every animation breathes with intention.
+  </p>
   
-  <p>
-    I write front-end code like poetry — every tag, every class, every animation breathes with intention.<br>
-    <i>One might say... my <code>div</code>s have rhythm, and my <code>span</code>s dance!</i>
+  <p style="font-style: italic; color: #555;">
+    One might say... my <code>div</code>s have rhythm, and my <code>span</code>s dance!
   </p>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h4>Structured</h4>
-        <p>Clean architecture built<br>for scalability</p>
-      </td>
-      <td align="center">
-        <h4>Intentional</h4>
-        <p>Purposeful design focused<br>on user experience</p>
-      </td>
-      <td align="center">
-        <h4>Elegant</h4>
-        <p>Refined interactions that<br>feel natural</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <p>
-    <strong>The difference between good and great is in the details that most users never notice but always feel.</strong>
-  </p>
+<div align="center" style="display: flex; justify-content: center; margin-top: 30px; text-align: center; gap: 40px;">
+  <div>
+    <h4>Structure</h4>
+    <div style="width: 80px; height: 5px; background: #4285F4; margin: 10px auto;"></div>
+    <p>Organized & maintainable</p>
+  </div>
+  
+  <div>
+    <h4>Design</h4>
+    <div style="width: 80px; height: 5px; background: #EA4335; margin: 10px auto;"></div>
+    <p>Intuitive & purposeful</p>
+  </div>
+  
+  <div>
+    <h4>Motion</h4>
+    <div style="width: 80px; height: 5px; background: #34A853; margin: 10px auto;"></div>
+    <p>Fluid & meaningful</p>
+  </div>
 </div>
 <div align="center">
   <h3>🔮 Why Work With Me?</h3>
