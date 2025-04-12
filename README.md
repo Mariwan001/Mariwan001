@@ -147,7 +147,7 @@ A high-conversion landing page framework featuring:
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; margin: 40px auto; max-width: 1000px; flex-wrap: wrap;">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Clean code animation" style="border-radius: 12px;" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Professional developer working" style="border-radius: 12px;" />
 
   <div style="max-width: 500px; text-align: left;">
     <h3 style="margin-bottom: 20px; color: #222;">I don't just build interfaces — I engineer experiences.</h3>
@@ -160,7 +160,6 @@ A high-conversion landing page framework featuring:
   </div>
 
 </div>
-
 <div align="center">
   <h3>🔮 Why Work With Me?</h3>
   
