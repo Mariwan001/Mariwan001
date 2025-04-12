@@ -207,39 +207,6 @@ A high-conversion landing page framework featuring:
 </div>
 
 <div align="center">
-  <h3>💭 My Front-End Philosophy</h3>
-  
-  ```css
-  .mariwan-code {
-    craftsmanship: meticulous;
-    attention-to-detail: 100%;
-    bug-tolerance: 0;
-    animation-timing: perfect;
-    user-experience: seamless;
-    technical-debt: minimal;
-    comment-quality: legendary;
-  }
-  ```
-</div>
-
-<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Problem solving" />
-        <h4>When not coding</h4>
-        <p>I'm exploring UI design trends, optimizing animations, or sketching new interface concepts</p>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="Creative process" />
-        <h4>My creative process</h4>
-        <p>Immerse in the problem, explore solutions without constraints, then refine with precision</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
 ## ⚡ Developer Philosophy
 
 <div align="center">
