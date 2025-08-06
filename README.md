@@ -63,12 +63,6 @@
 ## ✨ Featured Projects
 
 
-| Project | Tech Stack | Live Demo | Repository |
-|--------|------------|-----------|------------|
-| **SaaS Pro** | React, Next.js, Tailwind CSS, Stripe, Auth.js | [View Demo](https://saas-pro.dev) | [GitHub](https://github.com/mariwan/saas-pro) |
-| **Animated Portfolio** | Vite, Framer Motion, TypeScript, GSAP | [View Demo](https://portfolio.mariwan.dev) | [GitHub](https://github.com/mariwan/portfolio) |
-| **Landing Master** | HTML, SCSS, Vanilla JS, IntersectionObserver | [View Demo](https://landing-master.dev) | [GitHub](https://github.com/mariwan/landing-master) |
-
 ### 🏆 SaaS Pro
 A comprehensive, production-ready SaaS platform template with:
 - ⚡ Server-side rendering with Next.js for SEO optimization
