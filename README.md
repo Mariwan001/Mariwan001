@@ -56,7 +56,6 @@
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Design-Figma-critical?logo=figma&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Terminal-Zsh-informational?logo=gnubash&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Browser-Chrome-yellow?logo=googlechrome&style=for-the-badge" />
 </p>
 
 ---
