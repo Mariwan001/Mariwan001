@@ -126,9 +126,9 @@ A high-conversion landing page framework featuring:
   <a href="mailto:mariwan.main2@gmail.com">
     <img src="https://img.shields.io/badge/Email-mariwan.main2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://mariwan-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio.mariwan--portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://mariwan-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio.mariwan--portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 </div>
 
 ---
