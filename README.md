@@ -33,11 +33,7 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="350" />
-</p>
-
-> <p align="center"><i><b>"Simplicity is the soul of efficiency."</b> – and yes, I do that with style.</i></p>
+ <p align="center"><i><b>"Simplicity is the soul of efficiency."</b> – and yes, I do that with style.</i></p>
 
 ---
 
