@@ -122,26 +122,11 @@ A high-conversion landing page framework featuring:
 <div align="center">
   <h3>🚀 Let's Make Digital Magic Together</h3>
   
-  <a href="https://calendly.com/mariwan/coffee-chat" target="_blank">
-    <img src="https://img.shields.io/badge/Schedule%20a%20Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule a Call" />
+  <div align="center">
+  <a href="mailto:mariwan.main2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mariwan.main2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
-  <a href="https://discord.gg/mariwan" target="_blank">
-    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="mailto:tenaciousonly@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tenaciousonly@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/mariwan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mariwan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/mariwan" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@mariwan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://mariwan.dev" target="_blank">
+  <a href="https://mariwan-portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-mariwan.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
