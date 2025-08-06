@@ -154,33 +154,3 @@ A high-conversion landing page framework featuring:
     </tr>
   </table>
 </div>
-
-<div align="center">
-## ⚡ Developer Philosophy
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Clean code visualization" />
-</div>
-
-<p align="center">
-  <strong>I write front-end code like poetry — every tag, every class, every animation breathes with intention.</strong>
-</p>
-
-<p align="center">
-  <em>One might say... my <code>div</code>s have rhythm, my <code>span</code>s dance, and my <code>@keyframes</code> tell stories.</em>
-</p>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>Clarity</strong></td>
-      <td align="center"><strong>Performance</strong></td>
-      <td align="center"><strong>Experience</strong></td>
-    </tr>
-    <tr>
-      <td align="center">Clean, readable code that speaks for itself</td>
-      <td align="center">Optimized for speed and efficiency</td>
-      <td align="center">Delightful interactions that feel natural</td>
-    </tr>
-  </table>
-</div>
