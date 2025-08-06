@@ -131,26 +131,3 @@ A high-conversion landing page framework featuring:
 </a>
 </div>
 
----
-
-## ⚡ Fun Facts & Philosophy
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%">
-        <h3>🎨 The Code Artist's Manifesto</h3>
-        <ul>
-          <li>I don't just write code—I craft experiences that resonate</li>
-          <li>Every animation has purpose, every transition tells a story</li>
-          <li>Performance isn't just a metric, it's respect for users' time</li>
-          <li>Accessibility isn't optional, it's fundamental</li>
-          <li>The best interfaces feel like magic, but are built with logic</li>
-        </ul>
-      </td>
-      <td width="40%" align="center">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280" alt="Creative coding" />
-      </td>
-    </tr>
-  </table>
-</div>
